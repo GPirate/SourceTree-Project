@@ -15,7 +15,7 @@ public class SourceTreeProject {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.print("testing project");
+        System.out.print("sourcetree project");
     }
     
 }
